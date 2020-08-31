@@ -1,0 +1,15 @@
+﻿  Application.cpp
+C:\Users\Thomas Popay\source\repos\Digit Recogniser\OpenGL\src\Application.cpp(100,19): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\Thomas Popay\source\repos\Digit Recogniser\OpenGL\src\Application.cpp(104,19): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\Thomas Popay\source\repos\Digit Recogniser\OpenGL\src\Application.cpp(108,19): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\Thomas Popay\source\repos\Digit Recogniser\OpenGL\src\Application.cpp(120,19): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\Thomas Popay\source\repos\Digit Recogniser\OpenGL\src\Application.cpp(216,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Thomas Popay\source\repos\Digit Recogniser\OpenGL\src\Application.cpp(217,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Thomas Popay\source\repos\Digit Recogniser\OpenGL\src\Application.cpp(244,61): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Thomas Popay\source\repos\Digit Recogniser\OpenGL\src\Application.cpp(244,48): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Thomas Popay\source\repos\Digit Recogniser\OpenGL\src\Application.cpp(244,35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Thomas Popay\source\repos\Digit Recogniser\OpenGL\src\Application.cpp(245,75): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Thomas Popay\source\repos\Digit Recogniser\OpenGL\src\Application.cpp(245,64): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Thomas Popay\source\repos\Digit Recogniser\OpenGL\src\Application.cpp(245,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Thomas Popay\source\repos\Digit Recogniser\OpenGL\src\Application.cpp(245,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  OpenGL.vcxproj -> C:\Users\Thomas Popay\source\repos\Digit Recogniser\OpenGL\Debug\Template.exe
